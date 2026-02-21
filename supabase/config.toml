@@ -1,0 +1,10 @@
+project_id = "mmfjugfziogmhqndraga"
+
+[functions.recommend]
+verify_jwt = false
+
+[functions.channel-finder]
+verify_jwt = false
+
+[functions.funding-scout]
+verify_jwt = false
